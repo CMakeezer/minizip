@@ -40,6 +40,8 @@ Master: [![Master Branch Status](https://api.travis-ci.org/nmoinvaz/minizip.svg?
 + Preservation of file attributes across file systems.
 + Unicode filename support through UTF-8 encoding.
 + IBM Codepage 437 legacy character encoding support.
++ Local file header masking 
++ Zipping/unzipping of central directory
 + Turn off compilation of compression, decompression, or encryption.
 + Windows (Win32 & WinRT), macOS and Linux platform support.
 + Streaming interface for easy implementation of additional platforms.
